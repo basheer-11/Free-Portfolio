@@ -1,3 +1,5 @@
+<img width="1909" height="920" alt="Capture d’écran 2025-11-21 à 16 20 05" src="https://github.com/user-attachments/assets/12a44424-a62d-472a-b992-8762f736c105" />
+
 # 🌟 Free Portfolio Template
 
 A modern, responsive, and customizable portfolio template designed for developers, designers, and creatives. Built with clean HTML, CSS, and JavaScript.
