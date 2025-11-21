@@ -5,7 +5,7 @@
 A modern, responsive, and customizable portfolio template designed for developers, designers, and creatives. Built with clean HTML, CSS, and JavaScript.
 Perfect for building your professional portfolio or learning front-end web development through a real-world project.
 
-![Portfolio Preview](http://mmi23h06.mmi-troyes.fr/portfolio/projets/template_portfolio/)
+![Portfolio Preview] : http://mmi23h06.mmi-troyes.fr/portfolio/projets/template_portfolio/
 
 ## ✨ Features
 
