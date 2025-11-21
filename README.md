@@ -3,6 +3,7 @@
 # 🌟 Free Portfolio Template
 
 A modern, responsive, and customizable portfolio template designed for developers, designers, and creatives. Built with clean HTML, CSS, and JavaScript.
+Perfect for building your professional portfolio or learning front-end web development through a real-world project.
 
 ![Portfolio Preview](http://mmi23h06.mmi-troyes.fr/portfolio/projets/template_portfolio/)
 
@@ -154,13 +155,6 @@ Free-Portfolio/
 - **Font Awesome 6.5.2**: Icon library
 - **SVG**: Wave animations
 - **Google Maps**: Embedded location map
-
-## 📱 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## 🤝 Contributing
@@ -177,27 +171,4 @@ Contributions are welcome! If you'd like to improve this template:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
-
-**Basheer El Kurdi**
-
-- LinkedIn: [Basheer El Kurdi](https://www.linkedin.com/in/basheer-elkurdi/)
-- Discord: [basheer_11](https://discordapp.com/users/basheer_11)
-
-## 🙏 Acknowledgments
-
-- Font Awesome for the icon library
-- Google Fonts for typography
-- Inspiration from modern portfolio designs
-
-## 📞 Support
-
-If you have any questions or need help with customization, feel free to:
-- Open an issue on GitHub
-- Contact the author through social media
-
----
-
 ⭐ If you find this template helpful, please consider giving it a star!
-
-**Made with ❤️ by Basheer El Kurdi**
